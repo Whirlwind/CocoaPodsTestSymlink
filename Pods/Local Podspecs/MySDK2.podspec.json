@@ -1,0 +1,26 @@
+{
+  "name": "MySDK2",
+  "version": "0.0.1",
+  "summary": "A short description of MySDK2.",
+  "description": "Cocoapods Test",
+  "homepage": "http://github.com/MySDK2",
+  "license": "MIT",
+  "authors": {
+    "Whirlwind": "whirlwindjames@hotmail.com"
+  },
+  "source": {
+    "git": "http://github.com/MySDK2.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "MySDK2",
+    "MySDK2/*.{h,m}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
